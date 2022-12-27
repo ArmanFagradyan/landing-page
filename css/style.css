@@ -18,7 +18,9 @@ body {
 }
 
 .container {
-    width: 1200px;
+    padding: 0 15px;
+    width: 100%;
+    max-width: 1230px;
     margin: 0 auto;
 }
 
@@ -488,9 +490,9 @@ body {
 }
 
 /* Footer */
-.footer {
+/* .footer {
 
-}
+} */
 
 .footer__wrapper {
     height: 150px;
